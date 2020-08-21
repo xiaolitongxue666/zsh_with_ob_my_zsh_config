@@ -2,11 +2,13 @@
 
 pacman -S zsh
 
+#install oh my zsh
+clone this repositories and cd into the dir
+./install.sh
+
 #oh my zsh theme
-
 <https://github.com/ohmyzsh/ohmyzsh/wiki/Themes> 
-
-suggest sgnoster
+suggest agnoster
 
 #change default shell
 
